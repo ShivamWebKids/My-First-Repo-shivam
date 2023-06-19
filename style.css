@@ -1,0 +1,41 @@
+body{
+ padding: 0px;
+ margin: 0px;
+ background: #2c4d62;
+
+
+}
+.container {
+    padding: 50px;
+    text-align: center;
+    font-size: 62px;
+    margin: 50px;
+    background: #3f83c6;
+    border: 2px solid #b26520;
+
+}
+
+.btn{
+    background: red;
+    color: cornsilk;
+    border-radius: 7px;
+    margin: 5px;
+    font-size: 19px;
+    cursor: pointer;
+}
+.btn#reset{
+	background: rebeccapurple;
+
+}
+.btn#start{
+	background: green;
+	
+}
+.text {
+    font-size: 21px;
+    margin: -10px;
+}
+
+.digit {
+    font-size: 68px;
+}
